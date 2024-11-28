@@ -8,8 +8,7 @@ I'm a <b>Computer Science graduate</b> from the University of British Columbia, 
 🔹 Ex-member of the **UBCO Aerial Robotics and Rocketry Club**, where I help contribute to programming a drone for autonomous flight and landing.  
 🔹 Experienced in **large software systems** maintenance and **innovative VR development**.  
 🔹 Currently exploring advanced **Python frameworks** and **React ecosystems**.  
-
-📍 **Location:** West Kelowna, BC  
+ 
 📧 **Email:** [colton.p@hotmail.com](mailto:colton.p@hotmail.com)  
 
 <div align="center">
@@ -78,8 +77,3 @@ Engineered flight and landing for drones in competitions using YOLOv7 AI and Pyt
   <h3>🌟 Let's Collaborate and Build the Future! 🌟</h3>
 </div>
 
-### 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=colton456p&theme=onestar&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies"/>
-</div>
